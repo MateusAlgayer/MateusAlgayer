@@ -1,6 +1,9 @@
 # Olá, meu nome é Mateus Roberto Algayer!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=MateusAlgayer&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<div>
+  <img src="https://img.shields.io/static/v1?label=Overview&message=MateusAlgayer&style=for-the-badge&logo=GitHub" alt="Link Github">
+  <img src="https://img.shields.io/static/v1?label=Linkedin&message=MateusAlgayer&style=for-the-badge&color=blue&logo=Linkedin"&link=https://www.linkedin.com/in/mateus-algayer/" alt="LinkedIn"/>
+</div>
 
 <p>Trabalhando no Banco do Brasil<br/> Eu sou desenvolvedor Mainframe/Cobol</p>
 
@@ -22,4 +25,4 @@
       src="https://github-profile-trophy.vercel.app/?username=MateusAlgayer&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
-</p>
+</p>  
