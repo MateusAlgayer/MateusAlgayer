@@ -30,4 +30,4 @@
 
 ### 📃 Certificações
 
-<iframe src="https://api.badgr.io/public/collections/3800f420ada549c0ab8120eb0a2f469f?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=146" title="Certificações 2025" style="width: 330px; height: 146px; border: 0px;"></iframe>
+<a href="https://api.badgr.io/public/assertions/O9IIrEiLSn-ErwKHY5IzNw"><img align='center' width="120px" height="120px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob"></a>
