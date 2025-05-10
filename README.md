@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://img.shields.io/static/v1?label=Overview&message=MateusAlgayer&style=for-the-badge&logo=GitHub" alt="Link Github">
-  <img src="https://img.shields.io/static/v1?label=Linkedin&message=Mateus Roberto Algayer&style=for-the-badge&color=blue&logo=Linkedin" link=https://www.linkedin.com/in/mateus-algayer/" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mateus-algayer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
 </div>
 
 <p>Trabalhando no Banco do Brasil<br/> Eu sou desenvolvedor Mainframe/Cobol</p>
