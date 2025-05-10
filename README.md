@@ -4,13 +4,10 @@
 
 <p>Trabalhando no Banco do Brasil<br/> Eu sou desenvolvedor Mainframe/Cobol</p>
 
-<div  align='right'>
-<img
-align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlgayer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-alt="Github Stats"
+<div align='center'>
+<img height='180cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlgayer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas Github"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=MateusAlgayer&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
+<img height='180cm' src="https://github-readme-stats.vercel.app/api?username=MateusAlgayer&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
 </div>
 
 ### 🏆 Meus Troféus do GitHub
