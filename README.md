@@ -8,9 +8,9 @@
 <p>Trabalhando no Banco do Brasil<br/> Eu sou desenvolvedor Mainframe/Cobol</p>
 
 <div align='center'>
-<img height='180cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlgayer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas Github"
-/>
-<img height='180cm' src="https://github-readme-stats.vercel.app/api?username=MateusAlgayer&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
+  <img height='180cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlgayer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas Github"
+  />
+  <img height='180cm' src="https://github-readme-stats.vercel.app/api?username=MateusAlgayer&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
 </div>
 
 ### 🏆 Meus Troféus do GitHub
@@ -26,3 +26,8 @@
     />
   </a>
 </p>  
+
+
+### 📃 Certificações
+
+<iframe src="https://api.badgr.io/public/collections/3800f420ada549c0ab8120eb0a2f469f?embed=true&amp;embedVersion=1&amp;embedWidth=330&amp;embedHeight=146" title="Certificações 2025" style="width: 330px; height: 146px; border: 0px;"></iframe>
