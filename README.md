@@ -30,4 +30,14 @@
 
 ### 📃 Certificações
 
-<a href="https://api.badgr.io/public/assertions/O9IIrEiLSn-ErwKHY5IzNw"><img align='center' width="120px" height="120px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob"></a>
+<div>
+  <a href="https://api.badgr.io/public/assertions/O9IIrEiLSn-ErwKHY5IzNw">
+    <img width="120px" align='center' height="120px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">
+  </a>
+  <a href="https://api.badgr.io/public/assertions/0fOetZzIQ3OFiyPm_2A8-g">
+    <img width="120px" height="120px" src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob">
+  </a>
+  <a href="https://api.badgr.io/public/assertions/nYOnm8pZSme20viS4y7YmA">
+    <img width="120px" align='center' height="120px" src="https://images.credly.com/images/f121d12c-ea3d-48d2-b043-eaeacdf548ba/blob">
+  </a>
+</div>
