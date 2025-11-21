@@ -13,21 +13,6 @@
   <img height='180cm' src="https://github-readme-stats.vercel.app/api?username=MateusAlgayer&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
 </div>
 
-### 🏆 Meus Troféus do GitHub
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=MateusAlgayer&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>  
-
-
 ### 📃 Certificações
 
 <div>
